@@ -1,0 +1,15 @@
+{
+    "name": "pre-commit-mirror-prettier",
+    "version": "2.1.2",
+    "description": "Prettier is an opinionated code formatter",
+    "repository": "OctoPrint/pre-commit-mirror-prettier",
+    "homepage": "https://prettier.io",
+    "author": "Gina Häußge",
+    "license": "MIT",
+    "engines": {
+        "node": ">=10.13.0"
+    },
+    "dependencies": {
+        "prettier": "2.1.2"
+    }
+}
